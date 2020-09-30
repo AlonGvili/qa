@@ -1,1 +1,1 @@
-﻿Set-PSUSetting -LogLevel "Error" -Telemetry -HideDashboard
+﻿Set-PSUSetting -LogLevel "Error" -Telemetry
