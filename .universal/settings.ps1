@@ -1,1 +1,1 @@
-﻿Set-PSUSetting -LogLevel "Error" -Telemetry
+﻿Set-PSUSetting -LogLevel "Error" -Telemetry -HideApi
