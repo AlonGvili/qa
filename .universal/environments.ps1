@@ -1,0 +1,1 @@
+﻿New-PSUEnvironment -Name "7.0.3" -Path "C:\Program Files\PowerShell\7\pwsh.exe" -Variables @('*')
